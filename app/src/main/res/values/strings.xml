@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversor de Temperatura</string>
+    <string name="temp_celsius">Celsius</string>
+    <string name="btn_Calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="res">Resultado</string>
+</resources>
